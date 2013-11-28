@@ -1,0 +1,17 @@
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Properties.Resources.resources
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.csproj.GenerateResource.Cache
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+\\win2k.aub.edu.lb\files\HomeM\mgh21\my documents\Visual Studio 2005\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.Properties.Resources.resources
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.csproj.GenerateResource.Cache
+C:\Users\Marc\Documents\Visual Studio 2005\Projects\WindowsApplication4\obj\Debug\WindowsApplication4.Form2.resources
